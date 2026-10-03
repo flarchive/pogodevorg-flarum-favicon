@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of pogodevorg/flarum-favicon.** Not for installation: use [Packagist](https://packagist.org/packages/pogodevorg/flarum-favicon) or the [upstream repository](https://github.com/pogodevorg/flarum-favicon).
 
-**0** versions archived · Latest: [`v1.0.0-beta.2`](https://github.com/flarchive/pogodevorg-flarum-favicon/tree/archive/v1.0.0-beta.2) · License: `MIT` · Flarum: `^0.1.0-beta.3`
+**1** versions archived · Latest: [`v1.0.0-beta.2`](https://github.com/flarchive/pogodevorg-flarum-favicon/tree/archive/v1.0.0-beta.2) · License: `MIT` · Flarum: `^0.1.0-beta.3`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0-beta.2` | 2015-12-17 | `^0.1.0-beta.3` | [Browse](https://github.com/flarchive/pogodevorg-flarum-favicon/tree/archive/v1.0.0-beta.2) |
 
 Catalog entry: [packages/pogodevorg-flarum-favicon.json](https://github.com/flarchive/archive-index/blob/main/packages/pogodevorg-flarum-favicon.json)
 
